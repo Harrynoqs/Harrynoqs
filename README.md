@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harrison</h1>
 <h3 align="center">I am currently studying Full-Stack web development at Microverse.</h3>
-<h3 align="center">I am currently located in Nairobi kenya.</h3>
+<h4 align="center">I am currently located in Nairobi, Kenya.</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Harrynoqs&label=Profile%20views&color=0e75b6&style=flat" alt="Harrynoqs" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **noqsnoqs@gmail.com.**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 [<img alt="" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/Harrynoqs) [<img alt="" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/noqsnoq1)
 [<img alt="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harrison-njuguna-59536314/)
